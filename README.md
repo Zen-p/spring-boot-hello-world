@@ -15,7 +15,7 @@ This is a simple Spring Boot application that serves a "Hello World" message whe
    git clone https://github.com/Zen-p/spring-boot-hello-world.git
    cd spring-boot-hello-world/target
 
-2. **Build and run the project:**
+2. **Run the project:**
 ```bash
 java -jar simple-Spring-Boot-Application-1.0.jar
 ```
